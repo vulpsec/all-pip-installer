@@ -5,7 +5,7 @@ Bütün Python Repolarını Tek seferde Cihazınıza Kuran Script
 ## İndirme
 
 ```bash
-git clone 'https://github.com/morbius-os/all-pip-installer
+git clone https://github.com/morbius-os/all-pip-installer
 
 cd all-pip-installer
 
